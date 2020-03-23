@@ -40,6 +40,13 @@ Sometimes two data structures can be used to solve the same problem, but one wil
 I'll flesh this part out a bit more, but some of the commonly asked interview questions for entry level devs are:
 - fizzbuzz
 - isPalindrome
-- array sorting algorithms
 - contians substring?
+
+Some common algo questions involve:
+- array sorting algorithms
 - Matricies (2D, 3D, nD arrays)
+
+Some architecture and systems designs questions are:
+- Google's elevator problem
+- Design a parking lot system
+- Traffic light system
