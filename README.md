@@ -1,4 +1,6 @@
-# Resources for 2020 Winter Brainstation Grads
+# Resources for 2020 Winter Brainstation Grads [WIP]
+
+Resources for your post-bootcamp career! I'll keep updating this README as time passes - if you want updates, you can either `watch` or `star` this repo! If there's anything you'd like me to add, feel free to message me on Slack, or [create an issue](https://github.com/ben-che/brainstation-winter-2020-resources/issues)
 
 ### CS fundamentals
 - [Ossu's CS Fnndamentals on Github](https://github.com/ossu/computer-science#core-cs) - REALLY good course that goes over all aspects of computer science; not only does it go over theory, but it touches on mathematics and other programming languages that are used in machine learning and software engineering
