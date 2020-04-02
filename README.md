@@ -52,3 +52,9 @@ Some architecture and systems designs questions are:
 - Google's elevator problem
 - Design a parking lot system
 - Traffic light system
+
+### Portfolio inspo
+Some links to get some inspiration on different portfolios around the world. Keep in mind that a developer's portfolio might differ greatly from a designer's, data scientist's or PM's portfolio:
+- [Awwwards](https://www.awwwards.com/)
+- [One Page Love](https://onepagelove.com/)
+
