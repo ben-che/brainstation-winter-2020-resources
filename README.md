@@ -60,3 +60,7 @@ Some links to get some inspiration on different portfolios around the world. Kee
 - [Awwwards](https://www.awwwards.com/)
 - [One Page Love](https://onepagelove.com/)
 
+### Misc
+Post-bootcamp job search
+- [In-depth medium article](https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/) about one's experience post-bootcamp and what comes next
+
